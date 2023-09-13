@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(17, 82, 151);
+    font-size: 2.8em; /* Change the size of the text */
+    text-align: center; /* Center the text */
+    margin-bottom: 20px; /* Space below the heading */
+    margin-top: 20px; /* Space above heading */
+    font-weight: 800; /* boldness of text */
+}
+
+
+
+h3 {
+    color: rgb(34, 72, 112);
+    font-size: 1.5em; /* Change the size of the text */
+    text-align: right; /* Center the text */
+    margin-bottom: 20px; /* Space below heading */
+    margin-top: 20px; /* Space above the heading */
+    font-weight: 300; /* boldness of text */
+}
+
+h4 {
+    color: rgb(17, 82, 151);
+    font-size: 1.8em; /* Change the size of the text */
+    text-align: center; /* Center the text */
+    margin-bottom: 20px; /* Space below the heading */
+    margin-top: 20px; /* Space above heading */
+    font-weight: 800; /* boldness of text */
+    text-align: left;
+
+}
+
+img {
+    margin-top: 20px; /* Add some space below the nhh logo */
+}
+
